@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Entregas Taller de Producto 2021 on Vicente Clericus R.-Taller Producto 2021</title>
+    <link>https://VicenteClericus.github.io/docs/</link>
+    <description>Recent content in Entregas Taller de Producto 2021 on Vicente Clericus R.-Taller Producto 2021</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate><atom:link href="https://VicenteClericus.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Entregas 2020</title>
+      <link>https://VicenteClericus.github.io/docs/ejemplo/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://VicenteClericus.github.io/docs/ejemplo/</guid>
+      <description>Modelación 2_3D y Grafica.</description>
+    </item>
+    
+    <item>
+      <title>Entregas Taller de Producto 2021 </title>
+      <link>https://VicenteClericus.github.io/docs/markdown/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://VicenteClericus.github.io/docs/markdown/</guid>
+      <description>Entregas</description>
+    </item>
+    
+  </channel>
+</rss>
