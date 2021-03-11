@@ -17,15 +17,6 @@
     </item>
     
     <item>
-      <title>Entregas Taller de Producto 2021</title>
-      <link>https://VicenteClericus.github.io/docs/entegas-2020/</link>
-      <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
-      
-      <guid>https://VicenteClericus.github.io/docs/entegas-2020/</guid>
-      <description>Documentación del Taller de Producto Modelación 2D-3D y Graficas</description>
-    </item>
-    
-    <item>
       <title>Entregas 2021</title>
       <link>https://VicenteClericus.github.io/docs/entregas-2021/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
@@ -41,6 +32,15 @@
       
       <guid>https://VicenteClericus.github.io/docs/markdown/</guid>
       <description>Entregas</description>
+    </item>
+    
+    <item>
+      <title>Extras</title>
+      <link>https://VicenteClericus.github.io/docs/entegas-2020/</link>
+      <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
+      
+      <guid>https://VicenteClericus.github.io/docs/entegas-2020/</guid>
+      <description>Documentación del Taller de Producto Modelación 2D-3D y Graficas</description>
     </item>
     
   </channel>
