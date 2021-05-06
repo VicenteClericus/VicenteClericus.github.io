@@ -8,39 +8,57 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 17 Jun 2020 19:30:08 +1000</lastBuildDate><atom:link href="https://VicenteClericus.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Entregas 2020 </title>
-      <link>https://VicenteClericus.github.io/docs/post-1/</link>
+      <title>Post 0.0 </title>
+      <link>https://VicenteClericus.github.io/docs/post-0.0/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://VicenteClericus.github.io/docs/post-1/</guid>
-      <description>Entregas</description>
+      <guid>https://VicenteClericus.github.io/docs/post-0.0/</guid>
+      <description>Entregas 2020</description>
     </item>
     
     <item>
-      <title>Entregas 2021 Unidad 1</title>
-      <link>https://VicenteClericus.github.io/docs/entregas-2021/</link>
+      <title>2021/1 Unidad 1</title>
+      <link>https://VicenteClericus.github.io/docs/2021-unidad-1/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://VicenteClericus.github.io/docs/entregas-2021/</guid>
-      <description>Modelación 2_3D y Grafica.</description>
+      <guid>https://VicenteClericus.github.io/docs/2021-unidad-1/</guid>
+      <description>Taller de Productos.</description>
     </item>
     
     <item>
-      <title>Entregas 2021 Unidad 2 </title>
-      <link>https://VicenteClericus.github.io/docs/markdown/</link>
+      <title>Post 2.1 </title>
+      <link>https://VicenteClericus.github.io/docs/post-2.1/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://VicenteClericus.github.io/docs/markdown/</guid>
-      <description>Entregas</description>
+      <guid>https://VicenteClericus.github.io/docs/post-2.1/</guid>
+      <description>Taller de Productos.</description>
     </item>
     
     <item>
-      <title>Extras</title>
-      <link>https://VicenteClericus.github.io/docs/entegas-2020/</link>
-      <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
+      <title>Post 2.2</title>
+      <link>https://VicenteClericus.github.io/docs/post-2.2/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://VicenteClericus.github.io/docs/entegas-2020/</guid>
-      <description>Documentación del Taller de Producto Modelación 2D-3D y Graficas</description>
+      <guid>https://VicenteClericus.github.io/docs/post-2.2/</guid>
+      <description>Taller de Productos.</description>
+    </item>
+    
+    <item>
+      <title>Post 2.3</title>
+      <link>https://VicenteClericus.github.io/docs/post-2.3/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://VicenteClericus.github.io/docs/post-2.3/</guid>
+      <description>Taller de Productos.</description>
+    </item>
+    
+    <item>
+      <title>Post 2.4</title>
+      <link>https://VicenteClericus.github.io/docs/post-2.4/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://VicenteClericus.github.io/docs/post-2.4/</guid>
+      <description>Taller de Productos.</description>
     </item>
     
   </channel>
